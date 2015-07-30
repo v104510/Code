@@ -5,8 +5,16 @@ CSS Settings For HTML Div ExactCenter
 #main {
 width:960px;
 margin:50px auto;
-font-family:raleway
+font-family:raleway;
+
 }
+
+body {
+    background-image: url("img/bac_logo.gif");
+    background-position: right top;
+    margin-right: 200px;
+}
+
 span {
 color:red
 }
